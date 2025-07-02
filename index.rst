@@ -9,7 +9,7 @@ How Do I Activate ESPN on My Device?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_17.png
    :width: 350px
    :align: center
    :height: 100px
