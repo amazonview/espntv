@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Disneyplus TV'
+project = 'espn activation code enter'
 
 
 # The full version, including alpha/beta/rc tags
