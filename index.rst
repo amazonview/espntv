@@ -1,5 +1,5 @@
 ##################
-How Do I Activate ESPN on My Device?
+How to Activate ESPN on Any Device: Step-by-Step Guide
 ##################
 
 .. meta::
@@ -24,7 +24,7 @@ How Do I Activate ESPN on My Device?
 Activating ESPN on your streaming device allows you to watch live sports, ESPN Originals, and exclusive ESPN+ content. To activate, simply visit `espn.com/activate <https://es.redircoms.com>`_ and enter the code displayed on your TV screen.
 
 **********
-Steps to Activate ESPN on Your Device
+Steps to Activate ESPN on any Device
 **********
 
 1. Open the **ESPN app** on your Smart TV, Roku, Fire TV, Apple TV, or compatible device.
